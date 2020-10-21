@@ -5,6 +5,8 @@
 ### **A Causal Forecasting Model built using Multi-layer Perceptron Artificial Neural Network** <br>
 #### The model learns on pre Covid-19 data and forecasts the electricity prices in Victoria for the Covid-19 lockdown period in Victoria, Australia.
 
+[Read the report](https://github.com/akale1994/Melbourne-Datathon-2020/blob/main/report/Report_MelbourneDatathon.pdf)
+
 <br>
 
 ## Setup
