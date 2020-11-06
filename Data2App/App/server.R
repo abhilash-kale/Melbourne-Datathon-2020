@@ -197,7 +197,7 @@ shinyServer(function(input, output, session) {
         # visualise the bar graph using ggplot + plotly
         p <- plot2_data %>%
           ggplot( aes(x=Time, y=Value, group=WeekTime, color=WeekTime,
-                      text = paste("Season:", WeekTime, "<br>", Electricity, ":", round(Value, 2)))) +
+                      text = paste("Week Time:", WeekTime, "<br>", Electricity, ":", round(Value, 2)))) +
           geom_line() +
           xlab("Time of day") +
           scale_x_datetime(date_breaks = "4 hour",
