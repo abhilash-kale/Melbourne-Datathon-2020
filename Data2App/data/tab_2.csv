@@ -1,0 +1,211 @@
+﻿Covid,Electricity,Month,State,Value
+No,Electricity Demand,1,New South Wales,8421.012723
+No,Regional Reference Price,1,New South Wales,94.7447708
+No,Electricity Demand,1,Queensland,6819.611106
+No,Regional Reference Price,1,Queensland,97.14447103
+No,Electricity Demand,1,South Australia,1403.435887
+No,Regional Reference Price,1,South Australia,123.5047318
+No,Electricity Demand,1,Tasmania,1053.661964
+No,Regional Reference Price,1,Tasmania,100.507298
+No,Electricity Demand,1,Victoria,4949.941161
+No,Regional Reference Price,1,Victoria,127.1620258
+No,Electricity Demand,2,New South Wales,8273.842339
+No,Regional Reference Price,2,New South Wales,86.83301496
+No,Electricity Demand,2,Queensland,6893.935932
+No,Regional Reference Price,2,Queensland,113.7630223
+No,Electricity Demand,2,South Australia,1353.642534
+No,Regional Reference Price,2,South Australia,100.2182967
+No,Electricity Demand,2,Tasmania,1034.326844
+No,Regional Reference Price,2,Tasmania,104.5884228
+No,Electricity Demand,2,Victoria,4920.624999
+No,Regional Reference Price,2,Victoria,75.19616491
+No,Electricity Demand,3,New South Wales,7884.458158
+No,Regional Reference Price,3,New South Wales,70.02655276
+Yes,Electricity Demand,3,New South Wales,7217.026836
+Yes,Regional Reference Price,3,New South Wales,46.70522135
+No,Electricity Demand,3,Queensland,6596.289279
+No,Regional Reference Price,3,Queensland,72.50417416
+Yes,Electricity Demand,3,Queensland,6122.944831
+Yes,Regional Reference Price,3,Queensland,37.46165365
+No,Electricity Demand,3,South Australia,1322.000022
+No,Regional Reference Price,3,South Australia,92.23351619
+Yes,Electricity Demand,3,South Australia,1204.208984
+Yes,Regional Reference Price,3,South Australia,45.39647135
+No,Electricity Demand,3,Tasmania,1008.229317
+No,Regional Reference Price,3,Tasmania,131.8752203
+Yes,Electricity Demand,3,Tasmania,1008.274792
+Yes,Regional Reference Price,3,Tasmania,37.23932292
+No,Electricity Demand,3,Victoria,4858.066974
+No,Regional Reference Price,3,Victoria,80.91552908
+Yes,Electricity Demand,3,Victoria,4585.615846
+Yes,Regional Reference Price,3,Victoria,46.5675651
+No,Electricity Demand,4,New South Wales,7424.707627
+No,Regional Reference Price,4,New South Wales,81.52899132
+Yes,Electricity Demand,4,New South Wales,6926.293556
+Yes,Regional Reference Price,4,New South Wales,40.37615278
+No,Electricity Demand,4,Queensland,6048.762297
+No,Regional Reference Price,4,Queensland,73.40298958
+Yes,Electricity Demand,4,Queensland,5916.503326
+Yes,Regional Reference Price,4,Queensland,36.99411806
+No,Electricity Demand,4,South Australia,1237.695878
+No,Regional Reference Price,4,South Australia,90.40133507
+Yes,Electricity Demand,4,South Australia,1161.601535
+Yes,Regional Reference Price,4,South Australia,33.52448611
+No,Electricity Demand,4,Tasmania,1041.093873
+No,Regional Reference Price,4,Tasmania,138.402217
+Yes,Electricity Demand,4,Tasmania,1093.917625
+Yes,Regional Reference Price,4,Tasmania,23.36856944
+No,Electricity Demand,4,Victoria,4648.088245
+No,Regional Reference Price,4,Victoria,81.65671701
+Yes,Electricity Demand,4,Victoria,4485.314431
+Yes,Regional Reference Price,4,Victoria,34.85539583
+No,Electricity Demand,5,New South Wales,7847.940808
+No,Regional Reference Price,5,New South Wales,78.21782594
+Yes,Electricity Demand,5,New South Wales,7791.975497
+Yes,Regional Reference Price,5,New South Wales,41.9513172
+No,Electricity Demand,5,Queensland,6013.954567
+No,Regional Reference Price,5,Queensland,73.37734039
+Yes,Electricity Demand,5,Queensland,5698.922023
+Yes,Regional Reference Price,5,Queensland,31.1815793
+No,Electricity Demand,5,South Australia,1301.311142
+No,Regional Reference Price,5,South Australia,90.79705645
+Yes,Electricity Demand,5,South Australia,1331.507722
+Yes,Regional Reference Price,5,South Australia,37.25170699
+No,Electricity Demand,5,Tasmania,1145.203128
+No,Regional Reference Price,5,Tasmania,80.63160282
+Yes,Electricity Demand,5,Tasmania,1159.90334
+Yes,Regional Reference Price,5,Tasmania,34.75928091
+No,Electricity Demand,5,Victoria,5016.119644
+No,Regional Reference Price,5,Victoria,83.46516129
+Yes,Electricity Demand,5,Victoria,4916.071593
+Yes,Regional Reference Price,5,Victoria,38.29483871
+No,Electricity Demand,6,New South Wales,8670.484323
+No,Regional Reference Price,6,New South Wales,93.64978125
+Yes,Electricity Demand,6,New South Wales,8490.791333
+Yes,Regional Reference Price,6,New South Wales,48.08724306
+No,Electricity Demand,6,Queensland,6134.314097
+No,Regional Reference Price,6,Queensland,82.35486979
+Yes,Electricity Demand,6,Queensland,5892.595222
+Yes,Regional Reference Price,6,Queensland,33.70836111
+No,Electricity Demand,6,South Australia,1460.330326
+No,Regional Reference Price,6,South Australia,108.3567205
+Yes,Electricity Demand,6,South Australia,1509.255653
+Yes,Regional Reference Price,6,South Australia,50.26596528
+No,Electricity Demand,6,Tasmania,1246.139937
+No,Regional Reference Price,6,Tasmania,86.69186111
+Yes,Electricity Demand,6,Tasmania,1221.480375
+Yes,Regional Reference Price,6,Tasmania,36.40501389
+No,Electricity Demand,6,Victoria,5491.187219
+No,Regional Reference Price,6,Victoria,96.7061059
+Yes,Electricity Demand,6,Victoria,5389.472139
+Yes,Regional Reference Price,6,Victoria,48.64275
+No,Electricity Demand,7,New South Wales,8656.395845
+No,Regional Reference Price,7,New South Wales,75.95128192
+Yes,Electricity Demand,7,New South Wales,8690.13547
+Yes,Regional Reference Price,7,New South Wales,47.97413978
+No,Electricity Demand,7,Queensland,6015.315867
+No,Regional Reference Price,7,Queensland,68.46234879
+Yes,Electricity Demand,7,Queensland,5925.447829
+Yes,Regional Reference Price,7,Queensland,38.22668011
+No,Electricity Demand,7,South Australia,1426.027898
+No,Regional Reference Price,7,South Australia,130.6620514
+Yes,Electricity Demand,7,South Australia,1514.65086
+Yes,Regional Reference Price,7,South Australia,59.31447581
+No,Electricity Demand,7,Tasmania,1241.95566
+No,Regional Reference Price,7,Tasmania,75.90616095
+Yes,Electricity Demand,7,Tasmania,1246.584906
+Yes,Regional Reference Price,7,Tasmania,56.58028898
+No,Electricity Demand,7,Victoria,5422.793033
+No,Regional Reference Price,7,Victoria,84.49491095
+Yes,Electricity Demand,7,Victoria,5514.670692
+Yes,Regional Reference Price,7,Victoria,63.57429435
+No,Electricity Demand,8,New South Wales,8383.449704
+No,Regional Reference Price,8,New South Wales,81.79777554
+Yes,Electricity Demand,8,New South Wales,8300.883884
+Yes,Regional Reference Price,8,New South Wales,49.85756048
+No,Electricity Demand,8,Queensland,5889.915104
+No,Regional Reference Price,8,Queensland,68.44376512
+Yes,Electricity Demand,8,Queensland,5575.409738
+Yes,Regional Reference Price,8,Queensland,30.44740591
+No,Electricity Demand,8,South Australia,1387.633322
+No,Regional Reference Price,8,South Australia,80.68658434
+Yes,Electricity Demand,8,South Australia,1417.428864
+Yes,Regional Reference Price,8,South Australia,45.57957661
+No,Electricity Demand,8,Tasmania,1224.193624
+No,Regional Reference Price,8,Tasmania,59.00149194
+Yes,Electricity Demand,8,Tasmania,1190.085806
+Yes,Regional Reference Price,8,Tasmania,55.77018817
+No,Electricity Demand,8,Victoria,5372.597224
+No,Regional Reference Price,8,Victoria,82.48441364
+Yes,Electricity Demand,8,Victoria,5144.821163
+Yes,Regional Reference Price,8,Victoria,53.70594758
+No,Electricity Demand,9,New South Wales,7600.976618
+No,Regional Reference Price,9,New South Wales,80.29940104
+Yes,Electricity Demand,9,New South Wales,7255.074389
+Yes,Regional Reference Price,9,New South Wales,40.99790278
+No,Electricity Demand,9,Queensland,5808.262469
+No,Regional Reference Price,9,Queensland,66.44918576
+Yes,Electricity Demand,9,Queensland,5522.871674
+Yes,Regional Reference Price,9,Queensland,27.37440972
+No,Electricity Demand,9,South Australia,1232.8897
+No,Regional Reference Price,9,South Australia,74.25364236
+Yes,Electricity Demand,9,South Australia,1169.467882
+Yes,Regional Reference Price,9,South Australia,15.22191667
+No,Electricity Demand,9,Tasmania,1144.368028
+No,Regional Reference Price,9,Tasmania,59.53278125
+Yes,Electricity Demand,9,Tasmania,1130.636479
+Yes,Regional Reference Price,9,Tasmania,37.51609028
+No,Electricity Demand,9,Victoria,4945.486885
+No,Regional Reference Price,9,Victoria,79.52900347
+Yes,Electricity Demand,9,Victoria,4521.474896
+Yes,Regional Reference Price,9,Victoria,34.663875
+No,Electricity Demand,10,New South Wales,7278.328058
+No,Regional Reference Price,10,New South Wales,81.8591045
+Yes,Electricity Demand,10,New South Wales,6955.870249
+Yes,Regional Reference Price,10,New South Wales,57.86929435
+No,Electricity Demand,10,Queensland,5916.36723
+No,Regional Reference Price,10,Queensland,71.10950437
+Yes,Electricity Demand,10,Queensland,5673.882843
+Yes,Regional Reference Price,10,Queensland,35.2086828
+No,Electricity Demand,10,South Australia,1111.599372
+No,Regional Reference Price,10,South Australia,73.52338542
+Yes,Electricity Demand,10,South Australia,1095.345282
+Yes,Regional Reference Price,10,South Australia,32.96660618
+No,Electricity Demand,10,Tasmania,1067.009115
+No,Regional Reference Price,10,Tasmania,76.23039315
+Yes,Electricity Demand,10,Tasmania,1087.298797
+Yes,Regional Reference Price,10,Tasmania,41.50457661
+No,Electricity Demand,10,Victoria,4640.04975
+No,Regional Reference Price,10,Victoria,76.76429772
+Yes,Electricity Demand,10,Victoria,4380.116411
+Yes,Regional Reference Price,10,Victoria,44.77565188
+No,Electricity Demand,11,New South Wales,7496.574373
+No,Regional Reference Price,11,New South Wales,79.45915278
+Yes,Electricity Demand,11,New South Wales,6783.966392
+Yes,Regional Reference Price,11,New South Wales,45.89298969
+No,Electricity Demand,11,Queensland,6251.487155
+No,Regional Reference Price,11,Queensland,71.18258854
+Yes,Electricity Demand,11,Queensland,5781.86732
+Yes,Regional Reference Price,11,Queensland,42.58845361
+No,Electricity Demand,11,South Australia,1192.844191
+No,Regional Reference Price,11,South Australia,75.55271181
+Yes,Electricity Demand,11,South Australia,998.8606186
+Yes,Regional Reference Price,11,South Australia,42.54845361
+No,Electricity Demand,11,Tasmania,1071.19755
+No,Regional Reference Price,11,Tasmania,71.38516319
+Yes,Electricity Demand,11,Tasmania,996.0907216
+Yes,Regional Reference Price,11,Tasmania,51.71268041
+No,Electricity Demand,11,Victoria,4690.358727
+No,Regional Reference Price,11,Victoria,74.35447917
+Yes,Electricity Demand,11,Victoria,4011.053093
+Yes,Regional Reference Price,11,Victoria,45.31041237
+No,Electricity Demand,12,New South Wales,7883.896401
+No,Regional Reference Price,12,New South Wales,65.93908266
+No,Electricity Demand,12,Queensland,6547.637265
+No,Regional Reference Price,12,Queensland,68.21505376
+No,Electricity Demand,12,South Australia,1277.668063
+No,Regional Reference Price,12,South Australia,89.31716398
+No,Electricity Demand,12,Tasmania,1017.108548
+No,Regional Reference Price,12,Tasmania,64.13535786
+No,Electricity Demand,12,Victoria,4618.128427
+No,Regional Reference Price,12,Victoria,66.98526882
