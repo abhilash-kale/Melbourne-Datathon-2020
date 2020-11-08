@@ -10,6 +10,7 @@
 ### **Electricity Consumption in Australia**
 #### A user-interactive data visualisation app developed in R Shiny that recites a story about how Australia consumes its electricity.
 
+[Watch the product video](https://youtu.be/YY6TvY4pZu0)<br>
 [Explore the app online](https://abhilash-kale.shinyapps.io/electricity-consumption-in-australia/)
 
 ### Setup on your local system
@@ -61,7 +62,7 @@ https://docs.anaconda.com/anaconda/install/
 ```
 * Download and install Jupyter Notebook in your system
 ```
-https://jupyter.org/install
+https://jupyter.org/install/
 ```
 * Clone this repository into your system
 ```
