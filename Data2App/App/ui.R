@@ -108,8 +108,7 @@ shinyUI(fluidPage(
                                                  c("New South Wales" = "New South Wales",
                                                    "South Australia" = "South Australia",
                                                    "Queensland" = "Queensland",
-                                                   "Tasmania" = "Tasmania",
-                                                   "Victoria" = "Victoria")
+                                                   "Tasmania" = "Tasmania")
                               ))),
                       
                       # deploy the area graphs for comparison on the main panel
