@@ -42,7 +42,7 @@ shinyUI(fluidPage(
                           Due to these unexpected fluctuations, energy-providing companies might have faced unprecedented scenarios where their traditional time-series forecasting models might not have performed up to the mark."),
                         br(),
                         h4("Earlier, we focused on Victoria and built a causal forecasting model to predict the electricity prices for the period of Covid-19.
-                           It is time we perform a comparative analysis among the different states in Australia, based on the availabilty of the data."),
+                           It is time we perform a comparative analysis among the different states in Australia, based on the availability of the data."),
                         br(),
                         h4("Here, a story of Australia's electricity consumption will be conveyed through various visualisations explaining the multiple aspects impacting it, especially Covid-19.")
                       ),
@@ -62,14 +62,14 @@ shinyUI(fluidPage(
                                     "Before Covid-19" = "No")
                       )),
                       column(2, selectInput("electricity", "Choose from Electricity Demand or Price:", 
-                                  c("Electricity Demand (MWh)" = "Electricity Demand", 
-                                    "Regional Reference Price ($/MWh)" = "Regional Reference Price")
+                                  c("Regional Reference Price ($/MWh)" = "Regional Reference Price",
+                                    "Electricity Demand (MWh)" = "Electricity Demand")
                       ))),
                       
                       # set a sidebar panel with dropdown menu for electricity and a line graphs
                       sidebarPanel(
                         h4("Covid-19 has significantly lowered down the electricity prices!"),
-                        h4("The demand, on average, does not seem to have changed over both the periods."),
+                        h4("The demand does not seem to have decreased much after the pandemic."),
                         h3("Factors Affecting the Electricity"),
                         h4(htmlOutput("tab_1_caption3")),
                         br(),

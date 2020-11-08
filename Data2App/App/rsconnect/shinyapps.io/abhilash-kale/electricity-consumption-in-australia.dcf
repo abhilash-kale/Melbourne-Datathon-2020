@@ -1,0 +1,13 @@
+name: electricity-consumption-in-australia
+title: electricity-consumption-in-australia
+username:
+account: abhilash-kale
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3183727
+bundleId: 3830982
+url: https://abhilash-kale.shinyapps.io/electricity-consumption-in-australia/
+when: 1604741710.25938
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|www/home.jpg
